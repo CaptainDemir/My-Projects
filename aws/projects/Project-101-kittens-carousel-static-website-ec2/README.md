@@ -36,18 +36,15 @@ Kittens Carousel is a static website application deployed with Apache Web Server
 ```
 101-kittens-carousel-static-website-ec2 (folder)
 |
-|----readme.md         # Given to the students (Definition of the project)          
-|----cfn-template.yml  # To be delivered by students (Cloudformation template)
+|----readme.md         #  (Definition of the project)          
+|----cfn-template.yml  #  (Cloudformation template)
 |----static-web
-        |----index.html  # Given to the students (HTML file)
-        |----cat0.jpg    # Given to the students (image file)
-        |----cat1.jpg    # Given to the students (image file)
-        |----cat2.jpg    # Given to the students (image file)
+        |----index.html  # (HTML file)
+        |----cat0.jpg    #  (image file)
+        |----cat1.jpg    #  (image file)
+        |----cat2.jpg    #  (image file)
 ```
 
-## Expected Outcome
-
-![Project 101 : Kittens Carousel Application Snapshot](./project-101-snapshot.png)
 
 ### At the end of the project, following topics are to be covered;
 
@@ -83,7 +80,7 @@ Kittens Carousel is a static website application deployed with Apache Web Server
 
 ## Steps to Solution
   
-- Step 1: Download or clone project definition from `clarusway` repo on Github 
+- Step 1: Download or clone project definition from `Developer` repo on Github 
 
 - Step 2: Create project folder for local public repo on your pc
 
@@ -93,9 +90,6 @@ Kittens Carousel is a static website application deployed with Apache Web Server
 
 - Step 5: Deploy your application on AWS Cloud using Cloudformation template to showcase your app within your team.
 
-## Notes
-
-- Customize the application by hard-coding your name instead of `student_name` within `index.html`.
 
 ## Resources
 
